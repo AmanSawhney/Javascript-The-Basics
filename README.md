@@ -8,4 +8,4 @@ Each folder represents a section of the course with the files inside demonstrati
 Well most are just explainations for the methods, for me to look back on.  The practice headers are where I copied what my instructor on Udemy wrote.  The challendge headers are for when I write the code myself. 
 
 ##How are you running this outside of a web browser?
-I wanted the ability to look back on my work.  Therefore, instead of working in the console, I am using Rhino and runing my javascript in terminal.
+I wanted the ability to look back on my work.  Therefore, instead of working in the console of a web browser, I am using Rhino and runing my javascript in terminal.
